@@ -73,7 +73,7 @@
 </p>
 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uraniumkid30&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="uraniumkid30" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uraniumkid30&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="uraniumkid30" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=uraniumkid30&show_icons=true&locale=en&theme=dark&background=000000" alt="uraniumkid30" /></p>
 
