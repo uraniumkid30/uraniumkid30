@@ -3,7 +3,7 @@
   <a href="https://linkedin.com/in/christopher-okoro-1b979a100">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/christopher_okoro">
+  <a href="https://stackoverflow.com/users/8707349/christopher-okoro">
     <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="https://www.hackerrank.com/uraniumkid30">
