@@ -85,5 +85,5 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/uraniumkid30"><img alt="Christopher Okoro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uraniumkid30&custom_title=ChristopherOkoro's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/uraniumkid30"><img alt="Christopher Okoro's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=uraniumkid30&custom_title=ChristopherOkoro's%20Contribution%20Graph&theme=vue" /></a>
   <br/>
